@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Clint Morimoto",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
+    "email": "clintmor@hawaii.edu",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://clintatmanoa.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
@@ -18,41 +18,48 @@
       {
         "network": "github",
         "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "url": "https://github.com/clintatmanoa"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "",
         "url": "http://linkedin.com/in/changeme"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "",
         "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "",
         "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "2D graphics",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Nintendo",
+        "Super Nintendo",
+        "sprites",
+        "pixel art"
       ]
     },
     {
-      "name": "data mining",
+      "name": "basketball",
       "keywords": [
+        "fantasy basketball",
+        "fantasy sports",
+        "nba"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "2D games",
       "keywords": [
+        "unity",
+        "unity3d"
       ]
     }
   ],
