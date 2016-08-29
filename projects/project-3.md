@@ -2,19 +2,20 @@
 layout: project
 type: project
 image: images/PROJ_02main.png
-title: Cotton
-permalink: projects/cotton
-date: 2014
+title: Pet Princess
+permalink: projects/
+date: TBD
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Unity3D
+  - C#
+  - Piskel
+summary: An upcoming pet owner game for mobile platforms.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Screenshot (1).png">
-  <img class="ui image" src="../images/Screenshot (2).png">
-  <img class="ui image" src="../images/Screenshot (3).png">
+  <img class="ui image" src="../images/PROJ_02main.png">
+  <img class="ui image" src="../images/PROJ_02gif1.gifg">
+  <img class="ui image" src="../images/PROJ_02gif2.gif">
 </div>
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
