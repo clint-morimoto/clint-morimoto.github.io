@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/PROJ_03main.png
 title: Theme
-permalink: projects/
+permalink: projects/micromouse
 date: 2015
 labels:
   - Java
