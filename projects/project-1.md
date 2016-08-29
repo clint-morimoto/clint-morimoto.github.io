@@ -13,9 +13,8 @@ summary: I created an early stage web application that combined user uploaded im
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Screenshot (1).png">
-  <img class="ui image" src="../images/Screenshot (2).png">
-  <img class="ui image" src="../images/Screenshot (3).png">
+  <img class="ui image" src="../images/PROJ_01main.png">
+  <img class="ui image" src="../images/PROJ_01gif1.gif">
 </div>
 
 Theme is a web application that allows users to combine large wallpaper images and music to create customized screensaver themes.  A fully working version of this project has yet to be completed, but in final form the intention is to create an online database that stores user themes.  The purpose of this web application is primarily to give users access to a potential near limitless number of screensaver themes, where the combination of a pleasing static image and repeating music track can be useful for study or certain office work environments.  Secondly, Theme could have potential for social media popularity, with users able to share themes with friends, and garner hits or likes from other users.
