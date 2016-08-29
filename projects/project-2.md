@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/PROJ_01main.png
 title: Sword Run
-permalink: projects/vacay
+permalink: projects/swordrun
 date: 2015
 labels:
   - Unity3D
