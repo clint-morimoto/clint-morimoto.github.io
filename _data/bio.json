@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96813",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,23 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "clintatmanoa",
         "url": "https://github.com/clintatmanoa"
       },
       {
         "network": "linkedin",
-        "username": "",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "",
-        "url": "http://instagram.com/changeme"
+        "username": "Clint Morimoto",
+        "url": "https://www.linkedin.com/in/clint-morimoto-60b2a485"
       }
     ]
   },
