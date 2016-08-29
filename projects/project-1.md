@@ -14,15 +14,12 @@ summary: I created an early stage web application that combined user uploaded im
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/Screenshot (1).png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
+  <img class="ui image" src="../images/Screenshot (2).png">
+  <img class="ui image" src="../images/Screenshot (3).png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Theme is a web application that allows users to combine large wallpaper images and music to create customized screensaver themes.  A fully working version of this project has yet to be completed, but in final form the intention is to create an online database that stores user themes.  The purpose of this web application is primarily to give users access to a potential near limitless number of screensaver themes, where the combination of a pleasing static image and repeating music track can be useful for study or certain office work environments.  Secondly, Theme could have potential for social media popularity, with users able to share themes with friends, and garner hits or likes from other users.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+This was an individual project coded in Java, HTML and CSS.  It was worked on for a Databases course under the Computer Science department at the University of Hawaii at Manoa.  This was the first project I worked on that involved both an interactive website, and linking it to a database.  It was extremely challenging with my inexperience, and I was unable to accomplish the larger scale vision previously mentioned.  I was, however, able to create a version that could pull media files for the images and sound from a local database.
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
-
-
+Here is the link to a screencast demonstration on [YouTube](https://www.youtube.com/watch?v=qz7JNBZB3hA).
