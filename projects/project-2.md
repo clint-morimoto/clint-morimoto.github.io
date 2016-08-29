@@ -19,6 +19,6 @@ summary: A 2D action game for mobile platforms, currently in development.
 
 Sword Run is the working title of a 2D action/adventure game project.  The project is intended to be released on the Android and iOS platforms.
 
-Sword Run is being developed with [Unity3D](https://unity3d.com/), a popular game development environment used for both mobile and desktop game applications.  The 2D sprites used for most of the graphics are currently being developed in [Piskel](http://www.piskelapp.com/).  The game will feature two-touch gameplay for control of your player's attack and evasive movements.
+Sword Run is being developed with [Unity3D](https://unity3d.com/), a popular game development environment used for both mobile and desktop game applications.  The 2D sprites used for most of the graphics are currently being developed in [Piskel](http://www.piskelapp.com/).  The game will feature multi-touch gameplay for control of your player's attack and evasive movements.
 
 Pictured above are conceptual sprite work and animation.  The run cycle animation was an exercise to learn how to create a basic running animation as a foundation to work on animating the more detailed standing character sprite.  Learning how to create sprites in Piskel and control them in a game environment is an ongoing process made possible through courses on [Udemy](https://www.udemy.com).
