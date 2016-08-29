@@ -1,19 +1,21 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/PROJ_01main.png
+title: Sword Run
 permalink: projects/vacay
 date: 2015
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Unity3D
+  - C#
+  - Piskel
+summary: A 2D action game for mobile platforms, currently in development.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/PROJ_01main.png">
+  <img class="ui image" src="../images/PROJ_01gif1.gif>
+</div>
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
