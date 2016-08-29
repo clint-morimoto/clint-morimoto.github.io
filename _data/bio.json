@@ -29,6 +29,11 @@
   },
   "interests": [
     {
+      "name": "software engineering",
+      "keywords": [
+        ]
+    },
+    {
       "name": "2D graphics",
       "keywords": [
         "Nintendo",
