@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/PROJ_02main.png
 title: Pet Princess
-permalink: projects/
+permalink: projects/cotton
 date: TBD
 labels:
   - Unity3D
