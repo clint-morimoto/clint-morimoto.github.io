@@ -17,10 +17,6 @@ summary: A 2D action game for mobile platforms, currently in development.
   <img class="ui image" src="../images/PROJ_01gif1.gif>
 </div>
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Sword Run is the working title of a 2D action/adventure game project.  The project is intended to be released on the Android and iOS platforms.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Sword Run is being developed with [Unity3D](https://unity3d.com/), a popular game development environment used for both mobile and desktop game applications.  The 2D sprites used for most of the graphics are currently being developed in [Piskel](http://www.piskelapp.com/).  The game will feature two-touch gameplay for control of your player's attack and evasive movements.
