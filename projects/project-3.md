@@ -14,7 +14,7 @@ summary: An upcoming pet owner game for mobile platforms.
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/PROJ_02main.png">
-  <img class="ui image" src="../images/PROJ_02gif1.gifg">
+  <img class="ui image" src="../images/PROJ_02gif1.gif">
   <img class="ui image" src="../images/PROJ_02gif2.gif">
 </div>
 
