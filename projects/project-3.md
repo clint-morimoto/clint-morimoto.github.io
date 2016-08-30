@@ -4,7 +4,7 @@ type: project
 image: images/PROJ_02main.png
 title: Pet Princess
 permalink: projects/petprincess
-date: TBD
+date: 2016
 labels:
   - Unity3D
   - C#
