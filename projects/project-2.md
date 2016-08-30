@@ -4,7 +4,7 @@ type: project
 image: images/PROJ_01main.png
 title: Sword Run
 permalink: projects/swordrun
-date: 2015
+date: 2016
 labels:
   - Unity3D
   - C#
