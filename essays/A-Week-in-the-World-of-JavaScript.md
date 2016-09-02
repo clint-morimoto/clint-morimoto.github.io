@@ -7,7 +7,7 @@ labels:
   - JavaScript
 ---
 
-<img class="ui tiny right spaced image" src="../images/E09_JS.jpg">
+<img class="ui medium right spaced image" src="../images/E09_JS.jpg">
 
 JavaScript: Not the first programming language most coders learn, myself included.  Yet it's possible that may change in the future, with JavaScript's [increasing popularity](http://thenewstack.io/javascript-popularity-surpasses-java-php-stack-overflow-developer-survey/) as a language for both front-end and back-end web application development.
 
