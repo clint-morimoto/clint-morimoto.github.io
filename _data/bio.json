@@ -132,6 +132,18 @@
     },
   ],
   "volunteer": [
+    {
+ -      "organization": "",
+ -      "website": "",
+ -      "position": "Mobile Game Developer",
+ -      "startDate": "2016-08-01",
+ -      "endDate": "",
+ -      "summary": "",
+ -      "highlights": [
+ -        "Focus on 2D game development using Unity3D engine",
+ -        "Planning to deploy first mobile game in 2017",
+ -      ]
+ -    }
   ],
   "awards": [
     {
