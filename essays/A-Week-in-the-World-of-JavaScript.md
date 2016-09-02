@@ -9,15 +9,11 @@ labels:
 
 <img class="ui medium right spaced image" src="../images/E09_JS.jpg">
 
-JavaScript: Not the first programming language most coders learn, myself included.  Yet it's possible that may change in the future, with JavaScript's [increasing popularity](http://thenewstack.io/javascript-popularity-surpasses-java-php-stack-overflow-developer-survey/) as a language for both front-end and back-end web application development.
+JavaScript: Not the first programming language most coders learn, myself included.  Yet it's possible that may change in the future, with JavaScript's [increasing popularity](http://thenewstack.io/javascript-popularity-surpasses-java-php-stack-overflow-developer-survey/) as a language for both front-end and back-end web application development.  With that wonderful motivation for getting well-versed in JavaScript, what's not to like?  It's perhaps to early to tell, but after spending a week going through an [introductory JavaScript module](http://courses.ics.hawaii.edu/ics314f16/modules/javascript-1/) for Software Engineering I at UH Manoa, early returns are both interesting and promising.
 
-## In the context of programming
+## Second Go-Round Already Different from the First
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+This is my second encounter with JavaScript in about a year's time, and surprisingly I have already come across a big fundamental change in a standard: the use of *let* and *const* instead of *var* for creating variables.
 
 ## In the context of engineering
 
