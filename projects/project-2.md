@@ -9,6 +9,7 @@ labels:
   - Unity3D
   - C#
   - Piskel
+  - Aseprite
 summary: A 2D action game for mobile platforms, currently in development.
 ---
 
