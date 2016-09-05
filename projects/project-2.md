@@ -15,7 +15,7 @@ summary: A 2D action game for mobile platforms, currently in development.
 <div class="ui small rounded images">
   <img class="ui image" src="../images/PROJ_01main.png">
   <img class="ui image" src="../images/PROJ_01gif1.gif">
-  <img class="ui image" src="../images/PROJ_01gif2.gif">
+  <img class="ui image" src="../images/PROJ01_gif3.gif">
 </div>
 
 Sword Run is the working title of a 2D action/adventure game project.  The project is intended to be released on the Android and iOS platforms.
