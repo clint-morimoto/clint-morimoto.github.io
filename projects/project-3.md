@@ -22,4 +22,4 @@ Pet Princess is the working title of a game currently in the planning stage.  Th
 
 Inspired in part by Pokemon Go, Pet Princess will initially give users access to a single virtual pet.  Through caring for the pet by means of walks or runs monitored via mobile device, users will unlock changes made available for their pet, such as changing their color or appearance.  Augmented reality becomes a factor when you take your pets to specific types of landmarks, such as the beach, parks, hiking trails, etc.  New pets can also be unlocked through amassing enough of these care points.
 
-Pictured above are conceptual pixel art for a pet owner avatar and two possible pets to control.
+Pictured above are conceptual pixel art done in [Piskel](http://www.piskelapp.com/), for a pet owner avatar and two possible pets to control.
