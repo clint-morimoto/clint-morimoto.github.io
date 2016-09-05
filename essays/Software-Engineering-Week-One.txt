@@ -1,21 +1,22 @@
 ---
 layout: essay
 type: essay
-title: A Week in the World of JavaScript Coding
-date: 2016-09-01
+title: Software Engineering, Week One!
+date: 2016-09-03
 labels:
   - JavaScript
+- Software Engineering
 ---
 
-<img class="ui medium right spaced image" src="../images/E09_JS.jpg">
+The existence of the word “engineering” in the course title Software Engineering, makes me feel a bit uneasy at times.  Engineers are people who professionally build stuff using the laws of physics as their guide, right?  Is the computer software version of that, something I need to strive for?  While it appears that being a software engineer doesn’t require proficiency with Newton’s Laws or Maxwell’s equations, it does have the makings of a similarly rigorous discipline of study.  The software focus of this branch of engineering is an ends that I particularly find appealing compared to say, building a bridge, an engine, or even a computer itself.  While those are generalizations of some of the common areas of engineering, the ability to design and create computer software is a unique focus in engineering, and one I’d love to gain skill in.
 
-JavaScript: Not the first programming language most coders learn, myself included.  Yet it's possible that may change in the future, with JavaScript's [increasing popularity](http://thenewstack.io/javascript-popularity-surpasses-java-php-stack-overflow-developer-survey/) as a language for both front-end and back-end web application development.  With that wonderful motivation for getting well-versed in JavaScript, what's not to like?  It's perhaps too early to tell, but after spending a week going through an [introductory JavaScript module](http://courses.ics.hawaii.edu/ics314f16/modules/javascript-1/) for Software Engineering I at UH Manoa, early returns are both interesting and promising.
+## Serious Methods for Serious Results
 
-## Second Go-Round Already Different from the First
+My understanding of the discipline of software engineering is far from complete, but I believe it encompasses generally accepted methods for efficiently and effective producing computer software. This as opposed to creating software by just winging it, or by using procedures that are likely to waste time and money.  I certainly have some interest in being able to create a useful computer application in a time frame that does not approach the end of my lifespan, so learning software engineering as a whole relates to this interest directly.  In particular, I imagine that gaining skill towards establishing a clear process and order of operations for software development, from start to finish, is a very useful aspect of studying software engineering.
 
-This is my second encounter with JavaScript in about a year's time, and surprisingly I have already come across a big fundamental change in a standard: the use of *let* and *const* instead of *var* for creating variables.  It is a seemingly simple, yet striking change, as one of the most common sights in any program's code is the declaration of variables.  Now that let and const have replaced var, it almost feels like a whole new language even though the rules for using them in place of var appear simple enough; use let for variables whose values will, or might, be changed, and use const for variables that will contain constant values.  The reason for this change is not something I have completely wrapped my head around, but my understanding of it is that the way var worked allowed its value to be changed outside of the block of code where it was declared, while let and const are block-scoped, only allowing their value to be changed inside the code block of their declaration.  This allows JS code to be safer and more stable.
+## The Future and I
 
-## Three Little Letters can be Scary
+<img class="ui medium right spaced image" src="../images/TechWriting_1stEssay.jpg">
 
-Taking Software Engineering I at UH Manoa also includes a pretty unique learning experience, at least from my experience studying computer programming, with the use of [WODs](http://courses.ics.hawaii.edu/ics314f16/morea/introduction/reading-athletic-software-engineering.html).  The acronym stands for Workout Of the Day, and the workout part is no joke as far as I'm concerned!  The main aspect of these academic workouts that are rather challenging, and possibly highly stressful, is the combination of these tests being timed, and, given the caveat that if they are not 100% functional according to the guidelines of the WOD, you receive zero credit.  While I may question the origin of newly gray or missing hair on my head after this semester, I cannot deny that this has a lot of potential to boost my engagement with learning how to code in JavaScript effectively and efficiently.
+I’m not sure that the experiences in software engineering that I’d love to have in my future will be had in taking a single course.  I do hope that through formal learning of software engineering, I will build towards the future that I want to have with software development.  Honestly, I don’t know what exactly I want regarding my future with software development, but I am hopeful that I will gain the ability to get there quicker through studying Software Engineering.
 
