@@ -14,7 +14,7 @@ labels:
 
 Semantics is one of those words that I'm fond of, and yet forget its definition from time to time.  Revisting this word that makes me feel smart when I use it in a sentence, I find that it is indeed a *very* fitting part of the title of [Semantic UI](http://semantic-ui.com/), a CSS framework that features syntax which does read more like a literal description of what you want to actually happen with your web design and function, rather than the frequently nonsemantic code statements of many structures within plain CSS, and even other popular CSS frameworks.
 
-## Easier To Read, But You Still Have To Read
+## Easier To Write, But You Still Have To Write
 
 <img class="ui large right spaced image" src="../images/E37_goodfellasNiceDinner.jpg">
 
