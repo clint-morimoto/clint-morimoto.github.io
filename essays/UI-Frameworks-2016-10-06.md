@@ -9,8 +9,8 @@ labels:
   - CSS
 ---
 
-> Semantics: the study of the meanings of words and phrases in language
-  [*merriam-webster.com*](http://www.merriam-webster.com/)
+##### Semantics: the study of the meanings of words and phrases in language
+  -[*merriam-webster.com*](http://www.merriam-webster.com/)
 
 ## Lint Is Useful!
 
