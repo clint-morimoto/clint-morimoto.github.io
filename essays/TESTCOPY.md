@@ -1,15 +1,19 @@
 ---
 layout: essay
 type: essay
-title: COPY Coding For The People
-date: 2016-09-22
+title: Meteor: Dinosaur Killer, Or Human Brain Exploder?
+date: 2016-10-20
 labels:
+  - Meteor
   - IntelliJ IDEA
-  - GitHub
-  - Coding Standards
+  - JavaScript
 ---
 
-Coding standards in programming has generally been something I have felt enthusiasm towards that ranged between lukewarm and cold.  It reminded me of constructs such as proper grammar; a standard that exists for maintaining conformity in communication, yet having to follow all of the rules of a coding standard can be pretty annoying!  Just like being able to say things like "Me and my friend" instead of "My friend and I", I like being able to put multiple blank lines in between lines of code, indent code blocks more than two spaces in, etc.  However, considering the fact that software engineering usually involves working in teams rather than individually, I believe that coding standards are necessary to maintain an efficient process of sharing and co-writing programs with a number of other people.
+As an aspiring computer scientist who has very limited experience with web application development, let alone web app frameworks, the idea of [Meteor](https://www.meteor.com/) held strong appeal: a way to build professional grade web applications for both home computer and mobile devices, all with once language (JavaScript).  I had some exposure to Meteor in the past but never fully invested myself in it until recently, and I was excited to begin a journey towards making a cool web application with my own semi-unique idea behind it all.  Now?  Those dreams have been crushed, along with my soul.  Kidding, but I did indeed get a tough reality check upon realizing that while Meteor may be a faster, possibly better way than most for build a web app *full stack* (from the user interface/client side front end, to the server side back end), it's not a miracle of immediate ease of use and productivity.
+
+<img class="ui large right spaced image" src="../images/E48_fullstackVenn.jpg">
+
+I did feel at times like I was searching for a unicorn while trying to understand how the code worked in [some of the  Meteor tutorials](http://courses.ics.hawaii.edu/ics314f16/morea/meteor-1/experience-meteor-blaze-tutorial.html) I was exposed to.
 
 ## Lint Is Useful!
 
