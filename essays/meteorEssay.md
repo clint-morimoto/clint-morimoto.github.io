@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Meteor: Dinosaur Killer, Or Human Brain Exploder?
+title: "Meteor: Dinosaur Killer, Or Human Brain Exploder?"
 date: 2016-10-20
 labels:
   - Meteor
