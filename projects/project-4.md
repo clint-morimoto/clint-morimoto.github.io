@@ -14,7 +14,7 @@ labels:
 summary: A web application that offers healthy eating ideas and information about locations near the UH Manoa campus where you can buy ingredients for recipes as well as healthy meals.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/PROJ04_bfgirl.png">
   <img class="ui image" src="../images/Screenshot (2).png">
   <img class="ui image" src="../images/Screenshot (3).png">
