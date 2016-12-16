@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/PROJ_01main.png
+image: images/PROJ01_mainRun.gif
 title: Sword Run
 permalink: projects/swordrun
 date: 2016
@@ -14,7 +14,7 @@ summary: A 2D action game for mobile platforms, currently in development.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/PROJ_01main.png">
+  <img class="ui image" src="../images/PROJ01_mainRun.gif">
   <img class="ui image" src="../images/PROJ_01gif1.gif">
   <img class="ui image" src="../images/PROJ01_gif3.gif">
 </div>
