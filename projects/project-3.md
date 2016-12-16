@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/PROJ_02main.png
+image: images/Corgi1.gif
 title: Pet Princess
 permalink: projects/petprincess
 date: 2016
@@ -13,9 +13,9 @@ summary: An upcoming pet owner game for mobile platforms.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/PROJ_02main.png">
+  <img class="ui image" src="../images/Corgi1.gif">
   <img class="ui image" src="../images/PROJ_02gif1.gif">
-  <img class="ui image" src="../images/PROJ_02gif2.gif">
+  <img class="ui image" src="../images/PROJ_02main.png">
 </div>
 
 Pet Princess is the working title of a game currently in the planning stage.  The appeal of the game centers on combining cute pet animals with fitness tracking and augmented reality.  I got the idea for this game from observing the interests of other individuals that varied greatly from my own.
