@@ -7,18 +7,14 @@ permalink: projects/brainFood
 date: 2016
 labels:
   - JavaScript
-  - IntelliJ IDEA
+  - IntelliJ IDEA 
   - CSS
   - Semantic UI
   - Piskel
 summary: A web application that offers healthy eating ideas and information about locations near the UH Manoa campus where you can buy ingredients for recipes as well as healthy meals.
 ---
 
-<div class="ui medium rounded images">
-  <img class="ui image" src="../images/PROJ04_bfgirl.png">
-  <img class="ui image" src="../images/Screenshot (2).png">
-  <img class="ui image" src="../images/Screenshot (3).png">
-</div>
+<img class="ui medium left floated rounded image" src="../images/PROJ04_bfgirl.png">
 
 Brain Food is a web application aimed at giving students nutrition ideas for the purpose of better brainpower.  Quality nutrition is a key component for cognitive performance, yet is something easily overlooked by college students who are living independently and often strapped for both time and money.
 
