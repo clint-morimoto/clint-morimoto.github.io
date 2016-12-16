@@ -2,18 +2,20 @@
 layout: project
 type: project
 image: images/PROJ_03main.png
-title: Theme
-permalink: projects/theme
-date: 2015
+title: Brain Food
+permalink: projects/brainFood
+date: 2016
 labels:
-  - Java
+  - JavaScript
+  - IntelliJ IDEA
   - CSS
-  - NetBeans
-summary: I created an early stage web application that combined user uploaded images and music into "themes", which are saved onto a database.
+  - Semantic UI
+  - Piskel
+summary: A web application that offers healthy eating ideas and information about locations near the UH Manoa campus where you can buy ingredients for recipes as well as healthy meals.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Screenshot (1).png">
+  <img class="ui image" src="../images/PROJ04_bfgirl.png">
   <img class="ui image" src="../images/Screenshot (2).png">
   <img class="ui image" src="../images/Screenshot (3).png">
 </div>
