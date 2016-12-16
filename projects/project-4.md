@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/PROJ_03main.png
+image: images/PROJ04_bfgirl.png
 title: Brain Food
 permalink: projects/brainFood
 date: 2016
