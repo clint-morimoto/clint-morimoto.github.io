@@ -16,8 +16,8 @@ summary: A web application that offers healthy eating ideas and information abou
 
 <img class="ui medium left floated rounded image" src="../images/PROJ04_bfgirl.png">
 
-Brain Food is a web application aimed at giving students nutrition ideas for the purpose of better brainpower.  Quality nutrition is a key component for cognitive performance, yet is something easily overlooked by college students who are living independently and often strapped for both time and money.  By offering a growing database of both healthy recipe ideas and locations where ingredients and meals can be purchased, Brain Food gives students a resource for improving their quality of nutrition.
+<a href="https://brain-food.github.io/">Brain Food</a> is a web application aimed at giving students nutrition ideas for the purpose of better brainpower.  Quality nutrition is a key component for cognitive performance, yet is something easily overlooked by college students who are living independently and often strapped for both time and money.  By offering a growing database of both healthy recipe ideas and locations where ingredients and meals can be purchased, Brain Food gives students a resource for improving their quality of nutrition.
 
-This was an individual project coded in Java, HTML and CSS.  It was worked on for a Databases course under the Computer Science department at the University of Hawaii at Manoa.  This was the first project I worked on that involved both an interactive website, and linking it to a database.  It was extremely challenging with my inexperience, and I was unable to accomplish the larger scale vision previously mentioned.  I was, however, able to create a version that could pull media files for the images and sounds from a local database.
+This was our final project for an introductory Software Engineering course at the University of Manoa.
 
 Here is the link to a screencast demonstration on [YouTube](https://www.youtube.com/watch?v=qz7JNBZB3hA).
