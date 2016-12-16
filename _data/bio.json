@@ -67,6 +67,9 @@
         "Javascript",
         "C",
         "C#",
+        "CSS",
+        "Semantic UI",
+        "Meteor",
       ]
     },
     {
@@ -76,7 +79,7 @@
         "Windows",
         "MacOS",
         "Ubuntu",
-        "Git/GitHub"
+        "Git/GitHub",
       ]
     }
   ],
