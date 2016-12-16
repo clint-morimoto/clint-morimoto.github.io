@@ -25,4 +25,4 @@ This was our final project for an introductory Software Engineering course at th
 
 <img class="ui image" src="../images/PROJ04_market.png">
 
-Here is the link to a screencast demonstration on [YouTube](https://www.youtube.com/watch?v=qz7JNBZB3hA).
+We needed to utilize many of the concepts and skills learned earlier in the semester, as well as learn new techniques to implement Brain Food.  We created Brain Food with the use of Meteor (coded in JavaScript and HTML/CSS), Semantic UI (a CSS framework), and I worked on the site graphics using Piskel, Aseprite, and MS Paint.  Some of the course concepts we followed throughout production included functional programming, UI design for web-based software, and team-based project management.  Perhaps needless to say, it was a rigorous process but also one I thoroughly enjoyed, and was fortunate to have the opportunity to partake in.
