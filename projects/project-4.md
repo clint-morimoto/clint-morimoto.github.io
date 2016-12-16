@@ -21,6 +21,7 @@ summary: A web application that offers healthy eating ideas and information abou
 
 <p>
 <br/>
+<br/>
 </p>
 
 <img class="ui image" src="../images/PROJ04_leadoff.png">
