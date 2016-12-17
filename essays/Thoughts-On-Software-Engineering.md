@@ -11,11 +11,11 @@ The existence of the word engineering in the course title "Software Engineering"
 
 ## Serious Methods for Serious Results
 
+<img class="ui medium right spaced image" src="../images/softwareThoughts.jpg">
+
 My understanding of the discipline of software engineering is far from complete, but I believe it encompasses generally accepted methods for efficiently and effective producing computer software. This as opposed to creating software by just winging it, or by using procedures that are likely to waste time and money.  I certainly have some interest in being able to create a useful computer application in a time frame that does not approach the end of my lifespan, so learning software engineering as a whole relates to this interest directly.  In particular, I imagine that gaining skill towards establishing a clear process and order of operations for software development, from start to finish, is a very useful aspect of studying software engineering.
 
 ## The Future and I
-
-<img class="ui medium right spaced image" src="../images/TechWriting_1stEssay.jpg">
 
 I’m not sure that the experiences in software engineering that I’d love to have in my future will be had in taking a single course.  I do hope that through formal learning of software engineering, I will build towards the future that I want to have with software development.  Honestly, I don’t know what exactly I want regarding my future with software development, but I am hopeful that I will gain the ability to get there quicker through studying software engineering.
 
