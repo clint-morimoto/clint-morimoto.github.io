@@ -16,9 +16,9 @@ Semantics is one of those words that I'm fond of, and yet forget its definition 
 
 ## Easier To Write, But You Still Have To Write
 
-<img class="ui large right spaced image" src="../images/E37_goodfellasNiceDinner.jpg">
+<img class="ui large right spaced image" src="../images/semanticUI_pic.png">
 
-*If only web design was this easy.*
+*Many great learning resources available at the Semantic UI <a href="http://semantic-ui.com/introduction/getting-started.html">website</a>.*
 
 Like other UI frameworks, Semantic UI is not a magic lamp that you can rub whenever you want something cool to appear on your webpage without knowing more than a lick about HTML and CSS.  You do need to have a general idea of how to use CSS  classes, common structures, etc.  And while using Semantic UI to make aesthetically pleasing web page elements such as clickable links and buttons is fairly straightforward, there is likely hours of new material/syntax to learn and understand before you can be up and running towards making a stylish site from top to bottom.
 
