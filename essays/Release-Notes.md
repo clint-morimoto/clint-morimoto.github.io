@@ -4,12 +4,17 @@ type: essay
 title: Newtonium Release Notes
 date: 2016-01-17
 labels:
-  - Meteor
-  - IntelliJ IDEA
-  - JavaScript
+  - Unity
+  - Piskel
+  - Aseprite
 ---
 
-As an aspiring computer scientist who has very limited experience with web application development, let alone web app frameworks, the idea of [Meteor](https://www.meteor.com/) held strong appeal: a way to build professional grade web applications for both home computer and mobile devices, all with once language (JavaScript).  I had some exposure to Meteor in the past but never fully invested myself in it until recently, and I was excited to begin a journey towards making a cool web application with my own semi-unique idea behind it all.  Now?  Those dreams have been crushed, along with my soul.  Kidding, but I did indeed get a tough reality check upon realizing that while Meteor may be a faster, possibly better way than most for build a web app *full stack* (from the user interface/client side front end, to the server side back end), it's not a miracle of immediate ease of use and productivity.
+## Newtonium
+Welcome to my Release Notes page for Project Newtonium!  Newtonium is the working title of a physics learning game to be developed in Unity.  The target audience of this project is high school to college level students who are either interested in, or required to take an introductory pre-engineering physics course.  The goal of this project is to act as either a spark or a catalyst for interest in classical mechanics (applications of newton's laws and other topics) through the use of some traditional video game elements including a dialogue-driven story, animated graphics, and music.
+
+*January 16, 2017*
+One week into a 15-week period of time allotted to this project, the focus has been largely on the planning of how to best use the remaining 14 weeks towards completion of the project.  
+[Meteor](https://www.meteor.com/) held strong appeal.
 
 <img class="ui large right spaced image" src="../images/E48_fullstackVenn.jpg">
 
