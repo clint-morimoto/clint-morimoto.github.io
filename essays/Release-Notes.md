@@ -15,6 +15,14 @@ Welcome to my Release Notes page for Project Newtonium!  Newtonium is the workin
 *January 16, 2017*
 One week into a 15-week period of time allotted to this project, the focus has been largely on the planning of how to best use the remaining 14 weeks towards completion of the project.  I have skimmed through a number of courses on [Udemy](https://www.udemy.com/courses/) and YouTube that feature Unity development related to this project, and while it appears that I cannot yet accurately which courses will be the best to focus on, I am fairly confident that [this course](https://www.udemy.com/unity2dplatformer/) and [this video series](https://www.youtube.com/results?search_query=unity+rpg+tutorial+gamesplusjames) will teach me techniques that I can use in a similar fashion for the implementation of my game.  Specifically, the animation and manipulation of 2D sprite-based characters for the first series, and the use of dialogue boxes involving multiple characters from the second instructional video set.
 
+#### Storyboards
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/releaseNotes_sB01.JPG">
+  <img class="ui image" src="../images/releaseNotes_sB02.JPG">
+  <img class="ui image" src="../images/releaseNotes_sB03.JPG">
+</div>
+Pictured above 
+
 <img class="ui large right spaced image" src="../images/E48_fullstackVenn.jpg">
 
 I did feel at times like I was searching for a unicorn while trying to understand how the code worked in [some of the  Meteor tutorials](http://courses.ics.hawaii.edu/ics314f16/morea/meteor-1/experience-meteor-blaze-tutorial.html) I was exposed to.  It turned out, certainly in my case, that Meteor has a pretty steep learning curve.
