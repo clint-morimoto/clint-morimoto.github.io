@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: Meteor: Dinosaur Killer, Or Human Brain Exploder?
-date: 2016-10-20
+title: Newtonium Release Notes
+date: 2016-01-17
 labels:
   - Meteor
   - IntelliJ IDEA
