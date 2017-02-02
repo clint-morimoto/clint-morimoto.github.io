@@ -11,6 +11,9 @@ labels:
 
 *Latest Update: February 1, 2017*
 <br/>
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/newtonia_roughWalk.gif">
+</div>
 I have nearly completed the walk cycle animation for the protagonist of the game.  I wanted to be finished with this task by now, I think that my OCD tendencies with visual stuff is getting the better of me here, but I believe this task will be completed within a week, and the controllable sprite animation will be imported into a very basic test stage (simply the character on a plain background that can be controlled).  Not coincidentally, there is a meeting scheduled with our instructor and advisor for this independent study project in a week's time, and thus I am shooting for the above and more to be posted here for the next relase notes update.
 
 ## Newtonium
