@@ -11,7 +11,7 @@ labels:
 
 *Latest Update: February 1, 2017*
 <br/>
-I have nearly completed the walk cycle animation for the protagonist of the game.  I wanted to be finished with this task by now, I think that my OCD tendencies with visual stuff is getting the better of me here, but I believe this task will be completed within a week, and the controllable sprite animation will be imported into a very basic test stage (simply the character on a plain background that can be controlled).
+I have nearly completed the walk cycle animation for the protagonist of the game.  I wanted to be finished with this task by now, I think that my OCD tendencies with visual stuff is getting the better of me here, but I believe this task will be completed within a week, and the controllable sprite animation will be imported into a very basic test stage (simply the character on a plain background that can be controlled).  Not coincidentally, there is a meeting scheduled with our instructor and advisor for this independent study project in a week's time, and thus I am shooting for the above and more to be posted here for the next relase notes update.
 
 ## Newtonium
 Welcome to my Release Notes page for Project Newtonium!  Newtonium is the working title of a physics learning game to be developed in Unity.  The target audience of this project is high school to college level students who are either interested in, or required to take an introductory pre-engineering physics course.  The goal of this project is to act as either a spark or a catalyst for interest in classical mechanics (applications of newton's laws and other topics) through the use of some traditional video game elements including a dialogue-driven story, animated graphics, and music.
