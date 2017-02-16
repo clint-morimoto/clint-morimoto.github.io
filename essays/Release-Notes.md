@@ -14,7 +14,7 @@ Welcome to my Release Notes page for Project Newtonium!  Newtonium is the workin
 
 <br/>
 ### *Latest Update: February 15, 2017*
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/releaseNotes_1stScreen.gif">
 </div>
 I completed the walk cycle animation and imported it into Unity.  I wrote a simple script to control the protagonist (who I will refer to as "Main" from this point on as his working name).  At the moment the script simply supports left and right movement, while the walk animation is not coordinated to only activate while Main is standing still.  I will fix this for the next update, as well as fix the animation to "flip" depending on if the player is moving left or right.  I created a simple floor graphic with collision detection, which is demonstrated above as Main walks off a cliff, but this is more of a demo and not indicative of where the actual gameplay is headed.  I created some additional graphics as well, which can be seen for now in my sprites folder, but upon my meeting with my project advisor I will be focusing mostly on scripts to structure player and game behavior, and trying to incorporate new graphics simply as needed and for functional purposes rather than going straight for a "finished product look".
