@@ -22,7 +22,7 @@ I completed the walk cycle animation and imported it into Unity.  I wrote a simp
 ### Goals for the next month:
 After getting basic behavior for my existing Main character and CAScopter (basically will be following Main like a fairy/UFO dog), I need to get dialogue boxes into the game, which will be the basis for both communicating the story and instructing players on how to play the game.  I want to get a simple dialogue-based problem in the game, while also starting on the structure for the presentation of the actual level/problem presentation, with rough shapes/very quickly done graphics acting as fill-ins for what will later be finalized game graphics.
 
-#### *February 1, 2017*
+#### Previous Updates: *February 1, 2017*
 <div class="ui small rounded images">
   <img class="ui image" src="../images/newtonia_roughWalk.gif">
 </div>
