@@ -13,16 +13,26 @@ labels:
 Welcome to my Release Notes page for Project Newtonium!  Newtonium is the working title of a physics learning game to be developed in Unity.  The target audience of this project is high school to college level students who are either interested in, or required to take an introductory pre-engineering physics course.  The goal of this project is to act as either a spark or a catalyst for interest in classical mechanics (applications of newton's laws and other topics) through the use of some traditional video game elements including a dialogue-driven story, animated graphics, and music.
 
 <br/>
-### *Latest Update: February 15, 2017*
+## *Latest Update: March 1, 2017*
+<div class="ui large rounded images">
+  <img class="ui image" src="../images/releaseNotes_2ndScreen.gif">
+</div>
+Following up on the status of the walk animation from the last update, I made the walk animation "flip" when the player goes from moving left to moving right, so his walking animation is in the left or right direction as appropriate instead of just walking to the left all the time.  He also animates consistently on command, an issue I had at the end of the last update.
+<br/>
+I cleaned up the helicpoter spin animation of CASCopter and imported the sprites into Unity.  I got CASCopter to follow Main in a trailing manner, and also "flip" his animation when he moves in a different direction.  These seemingly simple tasks took me a fair amount of time, as I needed to create and tweak two scripts to get CASCopter's following behavior to work as I wanted it to.  In fact it is not quite how I want it yet, as I would like CASCopter to hover slightly up and down with his animation as he follows Main, but it was taking too long so I'm putting that on hold for now.
+<br/>
+I began the process of implementing dialogue boxes.  The Hello Worldish box is fitting in that I have currently only achieved the most basic level of dialogue/complexity, but it's a start.  Interactive dialogue boxes will be a focus of the next update.
+
+### Goals for the next month:
+I need to implement interactive dialogue boxes into the game, which will be the basis for both communicating the story and instructing players on how to play the game.  I want to get a simple dialogue-based problem in the game, while also starting on the structure for the presentation of the actual level/problem presentation, with rough shapes/very quickly done graphics acting as fill-ins for what will later be finalized game graphics.  By the end of the next release note period I plan to at least have the beginnings of a problem to solve in the game.
+
+#### Previous Updates: *February 15, 2017*
 <div class="ui large rounded images">
   <img class="ui image" src="../images/releaseNotes_1stScreen.gif">
 </div>
 I completed the walk cycle animation and imported it into Unity.  I wrote a simple script to control the protagonist (who I will refer to as "Main" from this point on as his working name).  At the moment the script simply supports left and right movement, while the walk animation is not coordinated to only activate while Main is standing still.  I will fix this for the next update, as well as fix the animation to "flip" depending on if the player is moving left or right.  I created a simple floor graphic with collision detection, which is demonstrated above as Main walks off a cliff, but this is more of a demo and not indicative of where the actual gameplay is headed.  I created some additional graphics as well, which can be seen for now in my sprites folder, but upon my meeting with my project advisor I will be focusing mostly on scripts to structure player and game behavior, and trying to incorporate new graphics simply as needed and for functional purposes rather than going straight for a "finished product look".
 
-### Goals for the next month:
-After getting basic behavior for my existing Main character and CAScopter (basically will be following Main like a fairy/UFO dog), I need to get dialogue boxes into the game, which will be the basis for both communicating the story and instructing players on how to play the game.  I want to get a simple dialogue-based problem in the game, while also starting on the structure for the presentation of the actual level/problem presentation, with rough shapes/very quickly done graphics acting as fill-ins for what will later be finalized game graphics.
-
-#### Previous Updates: *February 1, 2017*
+#### *February 1, 2017*
 <div class="ui small rounded images">
   <img class="ui image" src="../images/newtonia_roughWalk.gif">
 </div>
