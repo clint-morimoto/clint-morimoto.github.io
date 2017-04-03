@@ -15,7 +15,7 @@ Welcome to my Release Notes page for Project Newtonium!  Newtonium is the workin
 <br/>
 ## *Latest Update: March 15, 2017*
 <div class="ui large rounded images">
-  <img class="ui image" src="../images/3_15_NewtoniaScreen.gif">
+  <img class="ui image" src="../images/surprisedSoldier.gif">
 </div>
 Dialogue box structure for telling the story and coordinating the game is now up and semi-functional; functional in that you can go to the next page of text by hitting enter, the box dissapears after all text for a given dialogue has ended, and the graphical appearance of the boxes are more or less finalized.  Non-functional in that I have not been able to get the dialogue boxes to trigger (appear) in the way they need to be incorporated in the game.  I had issues where I was using physics collision detection to make the box appear when a character gets within range of the main character, but it made that character physically push the main character while talking to him, which obviously is not good!  I believe this can be fixed well before the next update though.
 <br/>
@@ -26,7 +26,18 @@ What I am very happy with is the inclusion of parallax scrolling with these back
 ### Goals for the next month:
 I need to further develop the interactive dialogue boxes into the game, which will be the basis for both communicating the story and instructing players on how to play the game.  I need to get a simple dialogue-based problem in the game, while also starting on the structure for the presentation of the actual level/problem presentation, with rough shapes/very quickly done graphics acting as fill-ins for what will later be finalized game graphics.
 
-#### Previous Updates: *March 1, 2017*
+### Previous Updates: 
+#### *March 15, 2017*
+<div class="ui large rounded images">
+  <img class="ui image" src="../images/3_15_NewtoniaScreen.gif">
+</div>
+Dialogue box structure for telling the story and coordinating the game is now up and semi-functional; functional in that you can go to the next page of text by hitting enter, the box dissapears after all text for a given dialogue has ended, and the graphical appearance of the boxes are more or less finalized.  Non-functional in that I have not been able to get the dialogue boxes to trigger (appear) in the way they need to be incorporated in the game.  I had issues where I was using physics collision detection to make the box appear when a character gets within range of the main character, but it made that character physically push the main character while talking to him, which obviously is not good!  I believe this can be fixed well before the next update though.
+<br/>
+Comparing this update's screencast gif with last week's, you'll notice a pretty big change (hopefully :), as along with the finalized appearance of the dialogue box, there now is a basic background with clouds and simple mountains present.  The cloud sprites I had already drawn about a month ago while I was prepping much of the graphics, while the mountains are simple triangle shapes that would be detailed or even changed completely for a final game release.
+<br/>
+What I am very happy with is the inclusion of parallax scrolling with these backgrounds!  Parallax scrolling is an old-school 2-D graphics technique used to create depth perception between the foreground and background.  It works by having objects (images) that are supposed to be further in the distance scroll by at a slower rate than objects in the foreground, as the main character walks from left to right.  Big thanks to the YouTube [tutorial video](https://www.youtube.com/watch?annotation_id=annotation_787378253&feature=iv&src_vid=9bhkH7mtFNE&v=QkisHNmcK7Y#t=2.603893) from which I learned how to code the script that can achieve parallax scrolling in Unity!
+
+#### *March 1, 2017*
 <div class="ui large rounded images">
   <img class="ui image" src="../images/releaseNotes_2ndScreen.gif">
 </div>
