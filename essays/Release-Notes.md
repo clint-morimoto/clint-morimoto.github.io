@@ -14,7 +14,7 @@ Welcome to my Release Notes page for Project Newtonium!  Newtonium is the workin
 
 <br/>
 ## *Latest Update: March 15, 2017*
-<div class="ui small rounded images">
+<div class="ui very small rounded images">
   <img class="ui image" src="../images/surprisedSoldier.gif">
 </div>
 Dialogue box structure for telling the story and coordinating the game is now up and semi-functional; functional in that you can go to the next page of text by hitting enter, the box dissapears after all text for a given dialogue has ended, and the graphical appearance of the boxes are more or less finalized.  Non-functional in that I have not been able to get the dialogue boxes to trigger (appear) in the way they need to be incorporated in the game.  I had issues where I was using physics collision detection to make the box appear when a character gets within range of the main character, but it made that character physically push the main character while talking to him, which obviously is not good!  I believe this can be fixed well before the next update though.
