@@ -13,7 +13,7 @@ labels:
 Welcome to my Release Notes page for Project Newtonium!  Newtonium is the working title of a physics learning game to be developed in Unity.  The target audience of this project is high school to college level students who are either interested in, or required to take an introductory pre-engineering physics course.  The goal of this project is to act as either a spark or a catalyst for interest in classical mechanics (applications of newton's laws and other topics) through the use of some traditional video game elements including a dialogue-driven story, animated graphics, and music.
 
 <br/>
-## *Latest Update: March 15, 2017*
+## *Latest Update: April 1, 2017*
 <div class="ui tiny rounded images">
   <img class="ui image" src="../images/surprisedSoldier.gif">
 </div>
