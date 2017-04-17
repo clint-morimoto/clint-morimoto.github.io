@@ -13,9 +13,9 @@ labels:
 Welcome to my Release Notes page for Project Newtonium!  Newtonium is the working title of a physics learning game to be developed in Unity.  The target audience of this project is high school to college level students who are either interested in, or required to take an introductory pre-engineering physics course.  The goal of this project is to act as either a spark or a catalyst for interest in classical mechanics (applications of newton's laws and other topics) through the use of some traditional video game elements including a dialogue-driven story, animated graphics, and music.
 
 <br/>
-## *Latest Update: April 1, 2017*
+## *Latest Update: April 15, 2017*
 <div class="ui tiny rounded images">
-  <img class="ui image" src="../images/surprisedSoldier.gif">
+  <img class="ui image" src="../images/deadDrive.png">
 </div>
 Really small update this time, I took a spring break vacation and also got sick, tough couple of weeks for project Newtonia.  Looking to bounce back with a considerably bigger update in the middle of April!
 <br/>
@@ -26,7 +26,17 @@ An issue I am having now is getting my dialogue text manager to handle different
 ### Goals for the next month:
 I need to further develop the interactive dialogue boxes into the game, which will be the basis for both communicating the story and instructing players on how to play the game.  I need to get a simple dialogue-based problem in the game, while also starting on the structure for the presentation of the actual level/problem presentation, with rough shapes/very quickly done graphics acting as fill-ins for what will later be finalized game graphics.
 
-### Previous Updates: 
+### Previous Updates:
+#### *April 1, 2017*
+<div class="ui tiny rounded images">
+  <img class="ui image" src="../images/surprisedSoldier.gif">
+</div>
+Really small update this time, I took a spring break vacation and also got sick, tough couple of weeks for project Newtonia.  Looking to bounce back with a considerably bigger update in the middle of April!
+<br/>
+The short animation above is a quick one I did for a fellow soldier that Main runs into that tells him the base is under attack.  This is part of the inciting incident (the base being under attack :) that sets the stage for Main jumping into a cannon for the physics problem.  The animation is clearly very basic and not one that I would want to use for a final version, but from now till the end of the semester this will probably be the level of animation I use for the working version of the game, where it is just to give an idea of how the story is to be told and also to serve as a draft for the finalized animation.
+<br/>
+An issue I am having now is getting my dialogue text manager to handle different dialogue sequences in the game.  As a continuation of the previous update, I am trying to get the soldier above to begin talking to Main when Main walks nearby him.  While I was able to do this, I am having difficulty getting the dialogue to appear after the inital dialogue shown in the previous update.
+
 #### *March 15, 2017*
 <div class="ui large rounded images">
   <img class="ui image" src="../images/3_15_NewtoniaScreen.gif">
