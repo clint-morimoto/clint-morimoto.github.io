@@ -15,7 +15,7 @@ Welcome to my Release Notes page for Project Newtonium!  Newtonium is the workin
 <br/>
 ## *Latest Update: April 15, 2017*
 <div class="ui tiny rounded images">
-  <img class="ui image" src="../images/deadDrive.png">
+  <img class="ui image" src="../images/badDrive.png">
 </div>
 Really small update this time, I took a spring break vacation and also got sick, tough couple of weeks for project Newtonia.  Looking to bounce back with a considerably bigger update in the middle of April!
 <br/>
