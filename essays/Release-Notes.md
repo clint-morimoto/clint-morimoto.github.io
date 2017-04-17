@@ -14,12 +14,12 @@ Welcome to my Release Notes page for Project Newtonium!  Newtonium is the workin
 
 <br/>
 ## *Latest Update: April 15, 2017*
-<div class="ui tiny rounded images">
+<div class="ui medium images">
   <img class="ui image" src="../images/badDrive.png">
 </div>
-Really small update this time, I took a spring break vacation and also got sick, tough couple of weeks for project Newtonia.  Looking to bounce back with a considerably bigger update in the middle of April!
+A particularly unhappy update this week, as my laptop stopped working about a week and a half ago, and after discussing my options with the manufacturer, I decided to ship it back to their repair center where they will likely replace the solid state drive.  While I will have lost a few days of progress from losing my SSD, my most recent project backup on GitHub thankfully has all the work I did on this project saved prior to that point.  The real blow is the loss of time, as shortly after my laptop went out I began a period where I'd have more time to invest on the project for a good couple of weeks, as I just finished two midterms and now have a more relaxed period for about a couple of weeks until the finals cram period starts.  There's also the matter of the semester ending in less than a month, and while thankfully my advisor on this project has been very understanding about my situation, my strong preference was to complete the this project's academic requirements before the end of this academic semester.  With an estimated time of two to three weeks from now for me to receive my laptop back, there is a lot of doubt as to whether that is possible at this point.
 <br/>
-The short animation above is a quick one I did for a fellow soldier that Main runs into that tells him the base is under attack.  This is part of the inciting incident (the base being under attack :) that sets the stage for Main jumping into a cannon for the physics problem.  The animation is clearly very basic and not one that I would want to use for a final version, but from now till the end of the semester this will probably be the level of animation I use for the working version of the game, where it is just to give an idea of how the story is to be told and also to serve as a draft for the finalized animation.
+In the spirit of not crying over spilt milk, I do have an old laptop 
 <br/>
 An issue I am having now is getting my dialogue text manager to handle different dialogue sequences in the game.  As a continuation of the previous update, I am trying to get the soldier above to begin talking to Main when Main walks nearby him.  While I was able to do this, I am having difficulty getting the dialogue to appear after the inital dialogue shown in the previous update.
 
