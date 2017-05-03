@@ -15,7 +15,7 @@ Welcome to my Release Notes page for Project Newtonium!  Newtonium is the workin
 <br/>
 ## *Latest Update:  May 1, 2017*
 <div class="ui medium images">
-  <img class="ui image" src="../images/newtoniaPractice2.gif">
+  <img class="ui image" src="../images/newtopiaPractice2.gif">
 </div>
 With my laptop scheduled to return any day now (I received an email just today from Acer saying that repairs have completed and they have just sent it out for shipping), I find myself in a position both desperate and exciting.  Desperate in that I will have a week or less to try to make some major progress and try to create a testable game product, and I would be lying if I said I wasn't stressed about the time ticking by.  Excited in that my laptop should be in fully functioning condition, I have made some progress in the functionality design of the game while my laptop was in the shop thanks to my old laptop still being able to do basic Unity projects, and my advisor for this project has been very understanding about the situation, helping to relieve my stress greatly.
 <br/>
